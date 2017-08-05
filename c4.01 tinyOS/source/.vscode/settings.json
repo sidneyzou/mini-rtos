@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "tinyos.h": "c",
+        "tlib.h": "c"
+    }
+}
